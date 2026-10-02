@@ -1,2 +1,4 @@
 database/data/
 simple-api/target/
+
+.env
